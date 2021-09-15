@@ -1,1 +1,1 @@
-This is my take at THe Odin Project's recipe website project.
+This is my take at The Odin Project's recipe website project.
