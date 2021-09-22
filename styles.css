@@ -1,0 +1,14 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #AEDE94;
+    line-height: 2;
+}
+
+
+img {width:400px;
+    height: auto;
+}
+
+a:visited {
+    color: #7A296A;
+}
