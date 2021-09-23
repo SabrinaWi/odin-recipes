@@ -2,6 +2,9 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: #AEDE94;
     line-height: 2;
+    text-align: justify;
+    width: 50%;
+    margin: 0 auto;
 }
 
 
@@ -9,6 +12,35 @@ img {width:400px;
     height: auto;
 }
 
+a {
+    display: inline-block;
+    background-color: #7CB95C;
+    padding: 3px;
+    border: 2px solid #5B0F4D;
+    border-radius: 5%;
+    margin: 5px;
+}
+
 a:visited {
-    color: #7A296A;
+    color: #7A296B;
+}
+
+a:hover {
+    color: #B77AAB;
+    background-color: #5B0F4D;
+}
+
+h1,
+h2,
+h3 {
+    color: #5B0F4D;
+}
+
+.index {
+    text-align: center;
+}
+
+.landingpg {
+    margin: 50px;
+    border: 4px dashed #5B0F4D;
 }
