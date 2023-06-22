@@ -1,6 +1,7 @@
 body {
     background-color: #CFF9B6;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 5px;
 }
 
 .main {
@@ -9,9 +10,38 @@ body {
 
 .main ul {
     list-style-type: none;
+
+}
+
+.main li {
+    margin: 7px;
 }
 
 h1 {
     background-color: #49B708;
     color: white;
+}
+
+h2 {
+    background-color: white;
+    color: #49B708;
+    width: fit-content;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: white;
+}
+
+a:active {
+    color: #49B708;
+}
+
+img {
+    width: 500px;
+    height: auto;
 }
