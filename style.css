@@ -1,5 +1,5 @@
 body {
-    background-color: #89E950;
+    background-color: #CFF9B6;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -9,4 +9,9 @@ body {
 
 .main ul {
     list-style-type: none;
+}
+
+h1 {
+    background-color: #49B708;
+    color: white;
 }
