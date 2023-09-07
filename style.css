@@ -20,6 +20,16 @@ body {
 h1 {
     background-color: #49B708;
     color: white;
+    text-align: center;
+}
+
+.overview,
+.ingredients,
+.steps {
+    width: 50%;
+    margin: 10px auto;
+    border: #49B708 solid 2px;
+    padding: 5px;
 }
 
 h2 {
@@ -42,6 +52,14 @@ a:active {
 }
 
 img {
+    display: block;
     width: 500px;
     height: auto;
+    margin: 10px auto;
+}
+
+.original
+
+ {
+    color: white;
 }
