@@ -1,7 +1,7 @@
 body {
-    background-color: #CFF9B6;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding: 5px;
+    background-color: #A8F17C;
 }
 
 .main {
@@ -28,6 +28,7 @@ h1 {
 .steps {
     width: 50%;
     margin: 10px auto;
+    background-color: #CFF9B6;
     border: #49B708 solid 2px;
     padding: 5px;
 }
