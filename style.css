@@ -34,7 +34,6 @@ h1 {
 }
 
 h2 {
-    background-color: white;
     color: #49B708;
     width: fit-content;
 }
@@ -62,5 +61,14 @@ img {
 .original
 
  {
-    color: white;
+    color: #49B708;
+}
+
+ .top {
+    width: 50%;
+    margin: 10px auto;    
+}
+
+.top a {
+    color: #49B708;
 }
