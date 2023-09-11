@@ -4,6 +4,12 @@ body {
     background-color: #A8F17C;
 }
 
+/*
+* {
+    border: black solid 1px;
+}
+*/
+
 .main {
     text-align: center;
 }
@@ -30,25 +36,18 @@ h1 {
     margin: 10px auto;
     background-color: #CFF9B6;
     border: #49B708 solid 2px;
-    padding: 5px;
+    padding: 5px 15px 10px 5px;
+    line-height: 2;
 }
 
 h2 {
     color: #49B708;
-    width: fit-content;
+    margin: 5px;
 }
 
 a {
     text-decoration: none;
     color: black;
-}
-
-a:hover {
-    color: white;
-}
-
-a:active {
-    color: #49B708;
 }
 
 img {
@@ -58,7 +57,12 @@ img {
     margin: 10px auto;
 }
 
-.original
+p {
+    padding-left: 40px;
+}
+
+.original,
+.top a
 
  {
     color: #49B708;
@@ -66,9 +70,14 @@ img {
 
  .top {
     width: 50%;
-    margin: 10px auto;    
+    margin: 10px auto;  
+    padding: 0px 15px 10px 5px;
 }
 
-.top a {
+a:hover {
+    color: white;
+}
+
+a:active {
     color: #49B708;
 }
