@@ -62,16 +62,23 @@ p {
 }
 
 .original,
-.top a
-
- {
+.nav a {
     color: #49B708;
+    text-decoration: underline;
 }
 
- .top {
+ .nav {
     width: 50%;
     margin: 10px auto;  
     padding: 0px 15px 10px 5px;
+}
+
+.nav ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
 }
 
 a:hover {
